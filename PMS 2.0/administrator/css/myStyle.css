@@ -1,0 +1,14 @@
+.label {
+	font-size: 12px;
+	float: left
+}
+.red-label {
+	font-size: 11px;
+	color: red;
+	display: none;
+	margin-top: 5px;
+	margin-bottom: -5px;
+}
+.box-shadow {
+	box-shadow: 0 0 7px red;
+}
